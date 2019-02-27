@@ -24,8 +24,10 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 
 ## Testing
+```
+To test the website login go to https://localhost:3030
 
-Simply run `npm test` and all your tests in the `test/` directory will be run.
+```
 
 ## Scaffolding
 
